@@ -140,3 +140,14 @@ ul {
   width: 60%;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
+
+.anything {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  margin-left: 30vw;
+  margin-top: 20vh;
+  justify-content: center;
+  width: 15vw;
+  z-index: 30;
+}

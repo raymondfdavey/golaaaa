@@ -281,6 +281,7 @@ class App extends Component {
               <p>what</p>
             </div>
           </div>
+
           <div className="entries">
             {data.map((singleDay) => {
               return (
