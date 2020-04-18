@@ -273,7 +273,7 @@ class App extends Component {
       <div className="wholePage">
         <div className="page">
           <div className="sideBar">
-            <img className="hearts" src={hearts} alr="hearts logo" />
+            <img className="hearts" src={hearts} alt="hearts logo" />
             <div className="navLinks">
               <p>some</p>
               <p>pish</p>
